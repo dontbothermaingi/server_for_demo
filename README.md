@@ -1,2 +1,1 @@
-# db_demo
-# db_demo
+# server_for_demo
